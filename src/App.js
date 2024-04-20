@@ -4,7 +4,7 @@ import RotatingImageGallery from './RotatingImageGallery/RotatingImageGallery';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <RotatingImageGallery />
     </div>
   );
